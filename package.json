@@ -1,0 +1,15 @@
+{
+  "name": "lotto_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lotto_service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mariadb": "^2.0.3"
+  }
+}
